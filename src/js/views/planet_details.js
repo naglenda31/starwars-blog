@@ -18,7 +18,7 @@ export const PlanetDetails = props => {
 						<div className="row details-top-section">
 							<div className="col-12 col-md-7 align-self-center">
 								<img
-									src="https://static.wikia.nocookie.net/starwars/images/b/b0/Tatooine_TPM.png/revision/latest?cb=20131019121937"
+									src="https://images.alphacoders.com/726/thumb-1920-726264.jpg"
 									className="w-100 rounded"
 									alt="planet image"
 								/>

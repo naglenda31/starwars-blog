@@ -12,7 +12,11 @@ body{
     color: #f8f9fa;
 }
 
-.navbar, .topandtable-container, .page-footer{
+.navbar{
+    background: #000000;
+}
+
+.topandtable-container, .page-footer{
        background-color: rgba(0, 0, 0, 0.7);
 }
 

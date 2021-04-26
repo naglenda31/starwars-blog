@@ -1,5 +1,5 @@
 const getState = ({ getStore, getActions, setStore }) => {
-	const base_url = process.env.BASE_URL;
+	const base_url = "https://www.swapi.tech/api";
 	return {
 		store: {
 			favorites: [],
